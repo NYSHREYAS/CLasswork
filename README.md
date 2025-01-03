@@ -6,4 +6,4 @@ This repository contains solutions to various basic Java problems designed to st
 
 - **Simple and Beginner-Friendly**: Designed to build a solid foundation in Java.
 - **Practical Approach**: Focus on solving real problems to understand concepts better.
-- **Organized Code**: Each problem is well-commented and structured for easy readability.
+- **Organized Code**:  structured for easy readability.
